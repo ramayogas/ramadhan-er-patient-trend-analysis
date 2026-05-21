@@ -3,7 +3,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
+<!-- ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat) -->
 
 A healthcare analytics project focused on identifying Emergency Room (ER) visit and diagnosis trends before, during, and after Ramadhan using PostgreSQL and Power BI.
 
