@@ -14,7 +14,6 @@
 
 A healthcare analytics project focused on identifying Emergency Room (ER) visit and diagnosis trends before, during, and after Ramadhan using PostgreSQL and Power BI.
 
-Built to simulate real-world hospital operational analytics and support seasonal healthcare decision-making.
 ---
 
 ## Overview
