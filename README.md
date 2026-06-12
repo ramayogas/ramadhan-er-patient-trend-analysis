@@ -6,12 +6,15 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 <!-- ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat) -->
 
-A healthcare analytics project focused on identifying Emergency Room (ER) visit and diagnosis trends before, during, and after Ramadhan using PostgreSQL and Power BI.
-
-Built to simulate real-world hospital operational analytics and support seasonal healthcare decision-making.
+**Tool:** SQL (PostgreSQL) · Power BI  
+**Domain:** Healthcare  
+**Dataset:** Simulated Dataset
 
 > Dataset is fully simulated and anonymized. No real patient or hospital data is used.
 
+A healthcare analytics project focused on identifying Emergency Room (ER) visit and diagnosis trends before, during, and after Ramadhan using PostgreSQL and Power BI.
+
+Built to simulate real-world hospital operational analytics and support seasonal healthcare decision-making.
 ---
 
 ## Overview
